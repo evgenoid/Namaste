@@ -4,7 +4,7 @@ all:
     param:
       dsn: 'mysql:host=localhost;dbname=magic161_namaste'
       username: magic161
-      password: '7mTYDFN'
+      password: '7mTYDFNl'
       attributes:
         default_table_collate: utf8_general_ci
         default_table_charset: utf8
