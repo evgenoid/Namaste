@@ -1,0 +1,3 @@
+signInSuccess:
+  has_layout:     true
+  layout:         signin

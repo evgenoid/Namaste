@@ -1,0 +1,27 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Team
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          team
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        display: [all]
+        layout:   stacked
+        params:  |
+          %%name%% %%surname%%, %%post%%<br>
+          <img src="/uploads/team/%%photo%%"/>
+      filter:  ~
+      form:    ~
+      edit:
+        title: Edit %%name%% %%surname%%
+      new:     ~

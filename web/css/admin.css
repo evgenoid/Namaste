@@ -1,0 +1,116 @@
+html,body                       { width:100%; height:100%; }
+body                            { padding:0; margin:0; font:13px Arial, Verdana, Helvetica, sans-serif;
+                                 color:#000; line-height: 19px; }
+div,p,a,span,em,strong,img,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,tr,form,fieldset,label,select,checkbox,input,textarea {
+	padding:0;
+	margin:0;
+	outline:none;
+	list-style:none;
+}
+select, input, textarea        { font-size:12px; vertical-align:middle; }
+textarea                       { vertical-align:top; }
+:focus                         { outline:none; }
+input[type=submit]             { cursor:pointer; }
+img, fieldset                  { border:0; }
+table                          { border-collapse:collapse; border-spacing:0; }
+a:link, a:visited, a           { font:13px Arial, Verdana, Helvetica, sans-serif; color:#0085D2; text-decoration:none; }
+a:hover                        { text-decoration:none; }
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------DEFAULT CLASSES------------------------------*/
+/*----------------------------------------------------------------------------------*/
+
+
+.header {
+	height: 55px;
+	background: url(../images/header_bg.jpg) repeat-x;
+	overflow: hidden;
+}
+.header ul {
+	background: url(../images/header_separator.png) no-repeat left top;
+	overflow: hidden;
+}
+.header ul li {
+	width: 89px;
+    background: url(../images/header_separator.png) no-repeat right top;
+	float: left;
+	overflow: hidden;
+	text-align: center;
+}
+.header ul li a {
+	display: block;
+	padding: 19px 6px;
+	color: #fff;
+}
+
+.header ul li a:hover, .header ul li a.active {
+    border-bottom: 7px solid #853693;
+    padding-bottom: 13px;
+}
+.header ul li:hover, .header ul li a.active, .header ul li.active{
+	background: #DA802C;
+}
+.header ul li.in-two-lines a {
+    padding: 11px 6px;
+}
+.header ul li.in-two-lines a:hover, .header ul li.in-two-lines a.active {
+    padding-bottom: 5px;
+}
+.header ul .header-icons a {
+    padding: 28px 0;
+}
+.header ul .header-icons a:hover, .header ul .header-icons a.active {
+    padding: 28px 0 20px;
+}
+.header ul .header-icons .mail-icon {
+	background: url(../images/mail_icon.png) no-repeat center 15px;
+}
+.header ul .header-icons .home-icon {
+	background: url(../images/home_icon.png) no-repeat center 15px;
+}
+.sf_admin_list table {
+    min-width: 50%;
+}
+
+#sf_admin_container h1 {
+    margin: 15px 50px 20px;
+    padding: 0;
+}
+
+#sf_admin_content {
+    margin: 0 0 0 30px;
+}
+#signin {
+    width: 100%;
+    height: 100%;
+    background: #ffcc66;
+}
+#signin a{
+    padding-left: 20px;
+}
+#signin h1{
+    padding-top: 20px;
+    font-size: 16px;
+    text-align: center;
+    color: #853693;
+    font-weight: normal;
+    font-family: serif;
+}
+.signin {
+    margin: 40px auto;
+    color: #853693;
+    font-family: serif;
+}
+.signin .error_list {
+    font-size: 14px;
+    font-style: italic;
+    color: red;
+}
+
+.signin th {
+    text-align: left;
+    font-weight: normal;
+}
+.signin td {
+    padding: 5px 5px;
+    text-align: center;
+}

@@ -1,0 +1,105 @@
+article:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Article
+    module:               article
+    prefix_path:          /admin/article
+    column:               id
+    with_wildcard_routes: true
+
+news:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                News
+    module:               news
+    prefix_path:          /admin/news
+    column:               id
+    with_wildcard_routes: true
+
+showcase:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Showcase
+    module:               showcasephoto
+    prefix_path:          /admin/showcasephoto
+    column:               id
+    with_wildcard_routes: true
+
+category_showcase:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                CategoryShowcase
+    module:               showcase
+    prefix_path:          /admin/showcase
+    column:               id
+    with_wildcard_routes: true
+
+photo:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Photo
+    module:               photo
+    prefix_path:          /admin/photo
+    column:               id
+    with_wildcard_routes: true
+
+team:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Team
+    module:               team
+    prefix_path:          /admin/team
+    column:               id
+    with_wildcard_routes: true
+
+page:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Page
+    module:               page
+    prefix_path:          /admin/page
+    column:               id
+    with_wildcard_routes: true
+
+practice:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Practice
+    module:               practice
+    prefix_path:          /admin/practice
+    column:               id
+    with_wildcard_routes: true
+
+massage:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Massage
+    module:               massage
+    prefix_path:          /admin/massage
+    column:               id
+    with_wildcard_routes: true
+
+category_photo:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                CategoryPhoto
+    module:               photogalery
+    prefix_path:          /admin/photogalery
+    column:               id
+    with_wildcard_routes: true
+
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /admin/
+  param: { module: practice, action: index }
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /admin/:module
+  param: { action: index }
+
+default:
+  url:   /admin/:module/:action/*

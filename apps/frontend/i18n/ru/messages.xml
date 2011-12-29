@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="ru" datatype="plaintext" original="messages" date="2011-12-26T13:59:34Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Практики</source>
+        <target>Практики</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Масаж</source>
+        <target>Массаж</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Ціни і абонементи</source>
+        <target>Цены и абонементы</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Розклад</source>
+        <target>Расписание</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Наша команда</source>
+        <target>Наша команда</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Галерея</source>
+        <target>Галерея</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Все для йоги</source>
+        <target>Все для йоги</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Контакти</source>
+        <target>Контакты</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Новини і статті</source>
+        <target>Новости и статьи</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Практика</source>
+        <target>Практика</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Новини</source>
+        <target>Новости</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Статті</source>
+        <target>Статьи</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Країна виробник: </source>
+        <target>Страна производитель: </target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Розміри: </source>
+        <target>Размеры: </target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Читати далі...</source>
+        <target>Читать дальше...</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Посада: </source>
+        <target>Должность: </target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Немає в наявності</source>
+        <target>Нет в наличии</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Код товару</source>
+        <target>Код товара</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Відіслати</source>
+        <target>Послать</target>
+        <target/>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Головна</source>
+        <target>Главная</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Натисніть для збільшення</source>
+        <target>Нажмите для увеличения</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

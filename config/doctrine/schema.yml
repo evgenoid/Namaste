@@ -1,0 +1,233 @@
+Practice:
+  actAs:
+    I18n:
+      fields: [name, text, meta_title, meta_keywords, meta_description]
+    actAs:
+      Sluggable:
+        fields:   [name]
+        unique:   true
+        type:     string
+        builder:  [Slug, slugify]
+        indexName: slugPractice
+        uniqueBy: [lang]
+  columns:
+    name:
+      type: string(50)
+      notnull: true
+    text:
+      type: text
+    meta_title:     { type: text }
+    meta_keywords:  { type: text }
+    meta_description: { type: text }
+Massage:
+  actAs:
+    I18n:
+      fields: [name, text, meta_title, meta_keywords, meta_description]
+    actAs:
+      Sluggable:
+        fields:   [name]
+        unique:   true
+        type:     string
+        builder:  [Slug, slugify]
+        indexName: slugMassage
+        uniqueBy: [lang]
+  columns:
+    name:
+      type: string(50)
+      notnull: true
+    text:
+      type: text
+    meta_title:     { type: text }
+    meta_keywords:  { type: text }
+    meta_description: { type: text }
+Team:
+  actAs:
+    I18n:
+      fields: [name, surname, biography, post, description, meta_title, meta_keywords, meta_description]
+    actAs:
+      Sluggable:
+        fields:       [name, surname]
+        unique:       true
+        type:         string
+        builder:  [Slug, slugify]
+        indexName: slugTeam
+        uniqueBy: [lang]
+  columns:
+    name:
+      type: string(50)
+    surname:
+      type: string(50)
+    description:
+      type: text
+    photo:
+      type: string(50)
+    biography:
+      type: text
+    post:
+      type: text
+    meta_title:     { type: text }
+    meta_keywords:  { type: text }
+    meta_description: { type: text }
+Page:
+  actAs:
+    I18n:
+      fields: [title, text, meta_title, meta_keywords, meta_description]
+    actAs:
+      Sluggable:
+        fields:       [title]
+        unique:       true
+        type:         string
+        builder:  [Slug, slugify]
+        indexName: slugPage
+        uniqueBy: [lang]
+  columns:
+    name:
+      type: string(50)
+      notnull: true
+    title:
+      type: string(50)
+      notnull: true
+    text:
+      type: text
+    meta_title:     { type: text }
+    meta_keywords:  { type: text }
+    meta_description: { type: text }
+CategoryPhoto:
+  actAs:
+    I18n:
+      fields: [name, description, meta_title, meta_keywords, meta_description]
+    actAs:
+      Sluggable:
+        fields:   [name]
+        unique:   true
+        type:     string
+        builder:  [Slug, slugify]
+        indexName: slugCategory
+        uniqueBy: [lang]
+        indexName: slugCategoryPhoto
+        uniqueBy: [lang]
+    Timestampable: ~
+  columns:
+    name:
+      type: string(50)
+    description:
+      type: text
+    team_id:
+      bigint
+    meta_title:     { type: text }
+    meta_keywords:  { type: text }
+    meta_description: { type: text }
+  relations:
+    Team:      { onDelete: SET NULL, local: team_id, foreign: id, foreignAlias: CategorysPhoto }
+Photo:
+  actAs:
+    I18n:
+      fields: [description]
+    Timestampable: ~
+  columns:
+    filename:
+      type: string(50)
+    description:
+      type: text
+    category_id:
+      type: bigint
+  relations:
+    CategoryPhoto:      { onDelete: SET NULL, local: category_id, foreign: id, foreignAlias: Photos }
+CategoryShowcase:
+  actAs:
+    I18n:
+      fields: [name, description, meta_title, meta_keywords, meta_description]
+    actAs:
+      Sluggable:
+        fields:   [name]
+        unique:   true
+        type:     string
+        builder:  [Slug, slugify]
+        indexName: slugCategoryShowcase
+        uniqueBy: [lang]
+    Timestampable: ~
+  columns:
+    name:
+      type: string(50)
+    description:
+      type: text
+    meta_title:     { type: text }
+    meta_keywords:  { type: text }
+    meta_description: { type: text }
+Showcase:
+  actAs:
+    I18n:
+      fields: [name, description, country, meta_title, meta_keywords, meta_description]
+    actAs:
+      Sluggable:
+        fields:   [name]
+        unique:   true
+        type:     string
+        builder:  [Slug, slugify]
+        indexName: slugShowcase
+        uniqueBy: [lang]
+    Timestampable: ~
+  columns:
+    name:
+      type: text
+    filename:
+      type: string(50)
+    description:
+      type: text
+    price:
+      type: integer
+    article:
+      type: integer
+    size:
+      type: text
+    country:
+      type: text
+    category_id:
+      type: bigint
+    availability:
+      type: boolean
+    meta_title:     { type: text }
+    meta_keywords:  { type: text }
+    meta_description: { type: text }
+  relations:
+    CategoryShowcase:      { onDelete: SET NULL, local: category_id, foreign: id, foreignAlias: Showcases }
+News:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields:     [ title, description, text, meta_title, meta_keywords, meta_description ]
+      actAs:
+        Sluggable:
+          fields:       [title]
+          unique:       true
+          type:         string
+          builder:  [Slug, slugify]
+          indexName: slugNews
+          uniqueBy: [title]
+  columns:
+    title:        { type: string(50), notnull: true }
+    description: { type: clob, notnull: true }
+    text:         { type: clob, notnull: true }
+    meta_title:     { type: text }
+    meta_keywords:  { type: text }
+    meta_description: { type: text }
+Article:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields:     [ title, description, text, meta_title, meta_keywords, meta_description ]
+      actAs:
+        Sluggable:
+          fields:       [title]
+          unique:       true
+          type:         string
+          builder:  [Slug, slugify]
+          indexName: slugArticle
+          uniqueBy: [title]
+  columns:
+    title:        { type: string(50), notnull: true }
+    description: { type: clob, notnull: true }
+    text:         { type: clob, notnull: true }
+    meta_title:     { type: text }
+    meta_keywords:  { type: text }
+    meta_description: { type: text }

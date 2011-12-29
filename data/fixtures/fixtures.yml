@@ -1,0 +1,499 @@
+Practice:
+  1:
+    Translation:
+      ru:
+        name: для начинающих
+        meta_title: для начинающих
+        meta_keywords: для начинающих
+        meta_description: для начинающих
+      uk:
+        name: для початківців
+        meta_title: для початківців
+        meta_keywords: для початківців
+        meta_description: для початківців
+  2:
+    Translation:
+      ru:
+        name: для будущих мам
+        meta_title: для будущих мам
+      uk:
+        name: для майбутніх мам
+        meta_title: для майбутніх мам
+  3:
+    Translation:
+      ru:
+        name: для детей
+        meta_title: для детей
+      uk:
+        name: для дітей
+        meta_title: для дітей
+  4:
+    Translation:
+      ru:
+        name: для позвоночника
+        meta_title: для позвоночника
+      uk:
+        name: для хребта
+        meta_title: для хребта
+  5:
+    Translation:
+      ru:
+        name: йога нидра
+        meta_title: йога нидра
+      uk:
+        name: йога нідра
+        meta_title: йога нідра
+  6:
+    Translation:
+      ru:
+        name: пранаяма
+        meta_title: пранаяма
+      uk:
+        name: пранаяма
+        meta_title: пранаяма
+  7:
+    Translation:
+      ru:
+        name: медитация
+        meta_title: медитация
+      uk:
+        name: медитація
+        meta_title: медитація
+Massage:
+  1:
+    Translation:
+      ru:
+        name: Лечебный массаж
+        meta_title: Лечебный массаж
+        meta_keywords: Лечебный массаж
+        meta_description: Лечебный массаж
+      uk:
+        name: Лікувальний масаж
+        meta_title: Лікувальний масаж
+        meta_keywords: Лікувальний масаж
+        meta_description: Лікувальний масаж
+  2:
+    Translation:
+      ru:
+        name: Расслабляющий
+        meta_title: Расслабляющий
+      uk:
+        name: Розслаблюючий
+        meta_title: Розслаблюючий
+  3:
+    Translation:
+      ru:
+        name: Аромамассаж
+        meta_title: Аромамассаж
+      uk:
+        name: Аромамасаж
+        meta_title: Аромамасаж
+  4:
+    Translation:
+      ru:
+        name: Антицелюлитный
+        meta_title: Антицелюлитный
+      uk:
+        name: Антицелюлітний
+        meta_title: Антицелюлітний
+  5:
+    Translation:
+      ru:
+        name: Детский массаж
+        meta_title: Детский массаж
+      uk:
+        name: Дитячий масаж
+        meta_title: Дитячий масаж
+Page:
+  1:
+    name: price
+    Translation:
+      ru:
+        title:  Цены и абонементы
+        meta_title:  Цены и абонементы
+        meta_keywords: Цены и абонементы
+        meta_description: Цены и абонементы
+      uk:
+        title:  Ціни і абонементи
+        meta_title:  Ціни і абонементи
+        meta_keywords: Ціни і абонементи
+        meta_description: Ціни і абонементи
+  2:
+    name: timetable
+    Translation:
+      ru:
+        title:  Расписание
+        meta_title:  Расписание
+        meta_keywords: Расписание
+        meta_description: Расписание
+      uk:
+        title:  Розклад
+        meta_title:  Розклад
+        meta_keywords: Розклад
+        meta_description: Розклад
+  3:
+    name: contacts
+    Translation:
+      ru:
+        title:  Контакты
+        text: '<div align="center"><strong><span style="font-size: 12pt; line-height: 16px;">Наши контакты</span></strong><br /><br /><br />г<span style="font-size: 12pt; line-height: 16px;">. Черкассы, ул. Крещатик, 223 ("Чебуречная")</span></div><div align="center"><span style="font-size: 12pt; line-height: 16px;"><br />тел. 0988904898</span></div><p><br /><br /></p><div align="center">Мы находимся в самом центре Черкасс на пересечении улиц Крещатик и Лазарева (где музыкальный фонтан).<br /><br />Для того, чтобы попасть к нам, необходимо перейти перекресток (музыкальный фонтан будет за Вашей спиной).<br /><br />Проходите во внутренний двор и поворачиваете налево.<span class="Apple-converted-space"> </span><br /><br />Заходите в "Чебуречную" и сразу дверь налево.</div><p><br /><br /><br /></p><div align="center"><span style="font-size: 12pt; line-height: 16px;">Напротив Эрика!!!</span></div><div align="center"><span style="font-size: 12pt; line-height: 16px;"><br /></span></div><div align="center"><img src="../../../uploads/tinymce/contacts.jpg" alt="" width="450" height="336" align="middle" /></div>'
+        meta_title:  Контакты
+        meta_keywords: Контакты
+        meta_description: Контакты
+      uk:
+        title:  Контакти
+        text: '<div align="center"><strong><span style="font-size: 12pt; line-height: 16px;">Наши контакты</span></strong><br /><br /><br />г<span style="font-size: 12pt; line-height: 16px;">. Черкассы, ул. Крещатик, 223 ("Чебуречная")</span></div><div align="center"><span style="font-size: 12pt; line-height: 16px;"><br />тел. 0988904898</span></div><p><br /><br /></p><div align="center">Мы находимся в самом центре Черкасс на пересечении улиц Крещатик и Лазарева (где музыкальный фонтан).<br /><br />Для того, чтобы попасть к нам, необходимо перейти перекресток (музыкальный фонтан будет за Вашей спиной).<br /><br />Проходите во внутренний двор и поворачиваете налево.<span class="Apple-converted-space"> </span><br /><br />Заходите в "Чебуречную" и сразу дверь налево.</div><p><br /><br /><br /></p><div align="center"><span style="font-size: 12pt; line-height: 16px;">Напротив Эрика!!!</span></div><div align="center"><span style="font-size: 12pt; line-height: 16px;"><br /></span></div><div align="center"><img src="../../../uploads/tinymce/contacts.jpg" alt="" width="450" height="336" align="middle" /></div>'
+        meta_title:  Контакти
+        meta_keywords: Контакти
+        meta_description: Контакти
+  4:
+    name: practice
+    Translation:
+      ru:
+        title:  Практики
+        meta_title:  Практики
+        meta_keywords: Практики
+        meta_description: Практики
+      uk:
+        title:  Практики
+        meta_title:  Практики
+        meta_keywords: Практики
+        meta_description: Практики
+  5:
+    name: massage
+    Translation:
+      ru:
+        title:  Массаж
+        meta_title:  Массаж
+        meta_keywords: Массаж
+        meta_description: Массаж
+      uk:
+        title:  Масаж
+        meta_title:  Масаж
+        meta_keywords: Масаж
+        meta_description: Масаж
+  6:
+    name: showcase
+    Translation:
+      ru:
+        title:  Все для йоги
+        meta_title:  Все для йоги
+        meta_keywords: Все для йоги
+        meta_description: Все для йоги
+      uk:
+        title:  Все для йоги
+        meta_title:  Все для йоги
+        meta_keywords: Все для йоги
+        meta_description: Все для йоги
+Team:
+  1:
+    photo:  1287997714_x_2b90531a.jpg
+    Translation:
+      ru:
+        name: ЛЮБОВЬ
+        surname:  Prasaddevi Puri
+        meta_title:  Prasaddevi Puri
+        biography: 'Инструктор системы «Йога в повседневной жизни». Занимаюсь йогой с 2001 года; в 2003 году стала ученицей Вишвагуру Махамандалешвара Парамаханса Свами Махешваранады – признанного во всём мире Мастера йоги. Принимала участие в многочисленных международных семинарах по йоге в Чехии, Венгрии, а также в Украине. Для меня йога – это бесконечное путешествие и диалог с собственным телом. И хотелось бы показать каждому, кто приходит на мои занятия, что он может заниматься йогой и что это будет очень полезно.'
+        post: инструктор
+        description: 'Инструктор системы «Йога в повседневной жизни».'
+      uk:
+        name: ЛЮБОВ
+        surname:  Prasaddevi Puri
+        meta_title:  Prasaddevi Puri
+        biography:  'Инструктор системы «Йога в повседневной жизни». Занимаюсь йогой с 2001 года; в 2003 году стала ученицей Вишвагуру Махамандалешвара Парамаханса Свами Махешваранады – признанного во всём мире Мастера йоги. Принимала участие в многочисленных международных семинарах по йоге в Чехии, Венгрии, а также в Украине. Для меня йога – это бесконечное путешествие и диалог с собственным телом. И хотелось бы показать каждому, кто приходит на мои занятия, что он может заниматься йогой и что это будет очень полезно.'
+        post: інструктор
+        description: 'Инструктор системы «Йога в повседневной жизни».'
+  2:
+    photo:  1287997714_x_2b90531a.jpg
+    Translation:
+      ru:
+        name: ЛЮБОВЬ
+        surname:  Prasaddevi Puri
+        meta_title:  Prasaddevi Puri
+        biography: 'Инструктор системы «Йога в повседневной жизни». Занимаюсь йогой с 2001 года; в 2003 году стала ученицей Вишвагуру Махамандалешвара Парамаханса Свами Махешваранады – признанного во всём мире Мастера йоги. Принимала участие в многочисленных международных семинарах по йоге в Чехии, Венгрии, а также в Украине. Для меня йога – это бесконечное путешествие и диалог с собственным телом. И хотелось бы показать каждому, кто приходит на мои занятия, что он может заниматься йогой и что это будет очень полезно.'
+        post: инструктор
+        description: 'Инструктор системы «Йога в повседневной жизни».'
+      uk:
+        name: ЛЮБОВ
+        surname:  Prasaddevi Puri
+        meta_title:  Prasaddevi Puri
+        biography:  'Инструктор системы «Йога в повседневной жизни». Занимаюсь йогой с 2001 года; в 2003 году стала ученицей Вишвагуру Махамандалешвара Парамаханса Свами Махешваранады – признанного во всём мире Мастера йоги. Принимала участие в многочисленных международных семинарах по йоге в Чехии, Венгрии, а также в Украине. Для меня йога – это бесконечное путешествие и диалог с собственным телом. И хотелось бы показать каждому, кто приходит на мои занятия, что он может заниматься йогой и что это будет очень полезно.'
+        post: інструктор
+        description: 'Инструктор системы «Йога в повседневной жизни».'
+CategoryPhoto:
+  1:
+    Team: 1
+    Translation:
+      ru:
+        name: Холл
+        meta_title: Холл
+        meta_keywords: Холл
+        meta_description: Холл
+      uk:
+        name: Хол
+        meta_title: Хол
+        meta_keywords: Хол
+        meta_description: Хол
+  2:
+    Team: 1
+    Translation:
+      ru:
+        name: Стойка администратора
+        meta_title: Стойка администратора
+        meta_keywords: Стойка администратора
+        meta_description: Стойка администратора
+      uk:
+        name: Стійка адміністратора
+        meta_title: Стійка адміністратора
+        meta_keywords: Стійка адміністратора
+        meta_description: Стійка адміністратора
+Photo:
+  1:
+    filename: 1289815255_1.jpg
+    Translation:
+      ru:
+        description: Холл 1
+        meta_title: Холл 1
+      uk:
+        description: Хол 1
+        meta_title: Хол 1
+    CategoryPhoto: 1
+  2:
+    filename: 1289815294_2.jpg
+    Translation:
+      ru:
+        description: Холл 2
+        meta_title: Холл 2
+      uk:
+        description: Хол 2
+        meta_title: Хол 2
+    CategoryPhoto: 1
+  3:
+    filename: 1289815337_3.jpg
+    Translation:
+      ru:
+        description: Стойка администратора 1
+        meta_title: Стойка администратора 1
+      uk:
+        description: Стійка адміністратора 1
+        meta_title: Стійка адміністратора 1
+    CategoryPhoto: 2
+CategoryShowcase:
+  1:
+    Translation:
+      ru:
+        name: Коврики
+        description: коврики
+        meta_title: Коврики
+        meta_keywords: Коврики
+        meta_description: Коврики
+      uk:
+        name: Коврики
+        description: коврики
+        meta_title: Коврики
+        meta_keywords: Коврики
+        meta_description: Коврики
+  2:
+    Translation:
+      ru:
+        name: Чехлы
+        description: чехлы
+        meta_title: Чехлы
+        meta_keywords: Чехлы
+        meta_description: Чехлы
+      uk:
+        name: Чохли
+        description: чохли
+        meta_title: Чохли
+        meta_keywords: Чохли
+        meta_description: Чохли
+Showcase:
+  1:
+    article: 5852787
+    price: 405
+    filename: kovrik_dlya_yogi.jpg
+    availability: true
+    size: 120x240
+    CategoryShowcase: 1
+    Translation:
+      ru:
+        name: Extra Thick Pilate Mat 1/4
+        description: '<p>Коврик для йоги из чистого хлопка. Полностью экологичный и органичный. Цветные полосы и приятная текстура коврика помогают успокоить ум и оставить повседневные дела и проблемы позади.</p>'
+        country: Германия
+        meta_title: Extra Thick Pilate Mat 1/4
+        meta_keywords: Extra Thick Pilate Mat 1/4
+        meta_description: Extra Thick Pilate Mat 1/4
+      uk:
+        name: Extra Thick Pilate Mat 1/4
+        description: '<p>Коврик для йоги из чистого хлопка. Полностью экологичный и органичный. Цветные полосы и приятная текстура коврика помогают успокоить ум и оставить повседневные дела и проблемы позади.</p>'
+        country: Німеччина
+        meta_title: Extra Thick Pilate Mat 1/4
+        meta_keywords: Extra Thick Pilate Mat 1/4
+        meta_description: Extra Thick Pilate Mat 1/4
+  2:
+    article: 5852632
+    price: 402
+    filename: kovrik_dlya_yogi1.jpg
+    availability: false
+    size: 120x240
+    CategoryShowcase: 1
+    Translation:
+      ru:
+        name: Thick Pilate Mat 1/4
+        description: '<p>Коврик для йоги из чистого хлопка. Полностью экологичный и органичный. Цветные полосы и приятная текстура коврика помогают успокоить ум и оставить повседневные дела и проблемы позади.</p>'
+        country: Китай
+        meta_title: Thick Pilate Mat 1/4
+        meta_keywords: Thick Pilate Mat 1/4
+        meta_description: Thick Pilate Mat 1/4
+      uk:
+        name: Thick Pilate Mat 1/4
+        description: '<p>Коврик для йоги из чистого хлопка. Полностью экологичный и органичный. Цветные полосы и приятная текстура коврика помогают успокоить ум и оставить повседневные дела и проблемы позади.</p>'
+        country: Китай
+        meta_title: Thick Pilate Mat 1/4
+        meta_keywords: Thick Pilate Mat 1/4
+        meta_description: Thick Pilate Mat 1/4
+  3:
+    article: 5834632
+    price: 602
+    filename: kovrik_dlya_yogi2.jpg
+    availability: true
+    size: 120x240
+    CategoryShowcase: 1
+    Translation:
+      ru:
+        name: Thick 1/4
+        description: '<p>Коврик для йоги из чистого хлопка. Полностью экологичный и органичный. Цветные полосы и приятная текстура коврика помогают успокоить ум и оставить повседневные дела и проблемы позади.</p>'
+        country: Китай
+        meta_title: Thick 1/4
+        meta_keywords: Thick 1/4
+        meta_description: Thick 1/4
+
+      uk:
+        name: Thick 1/4
+        description: '<p>Коврик для йоги из чистого хлопка. Полностью экологичный и органичный. Цветные полосы и приятная текстура коврика помогают успокоить ум и оставить повседневные дела и проблемы позади.</p>'
+        country: Китай
+        meta_title: Thick 1/4
+        meta_keywords: Thick 1/4
+        meta_description: Thick 1/4
+News:
+  1:
+    Translation:
+      ru:
+        title: Новость_1
+        meta_title: Новость_1
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_новости_1
+      uk:
+        title: Новина_1
+        meta_title: Новина_1
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_новини_1
+  2:
+    Translation:
+      ru:
+        title: Новость_2
+        meta_title: Новость_2
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_новости_2
+      uk:
+        title: Новина_2
+        meta_title: Новина_2
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_новини_2
+  3:
+    Translation:
+      ru:
+        title: Новость_3
+        meta_title: Новость_3
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_новости_3
+      uk:
+        title: Новина_3
+        meta_title: Новина_3
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_новини_3
+  4:
+    Translation:
+      ru:
+        title: Новость_4
+        meta_title: Новость_4
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_новости_4
+      uk:
+        title: Новина_4
+        meta_title: Новина_4
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_новини_4
+  5:
+    Translation:
+      ru:
+        title: Новость_5
+        meta_title: Новость_5
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_новости_5
+      uk:
+        title: Новина_5
+        meta_title: Новина_5
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_новини_5
+Article:
+  1:
+    Translation:
+      ru:
+        title: Статья_1
+        meta_title: Статья_1
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_статьи_1
+      uk:
+        title: Стаття_1
+        meta_title: Стаття_1
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_статті_1
+  2:
+    Translation:
+      ru:
+        title: Статья_2
+        meta_title: Статья_2
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_стати_2
+      uk:
+        title: Стаття_2
+        meta_title: Стаття_2
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_статті_2
+  3:
+    Translation:
+      ru:
+        title: Статья_3
+        meta_title: Статья_3
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_статьи_3
+      uk:
+        title: Стаття_3
+        meta_title: Стаття_3
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_статті_3
+  4:
+    Translation:
+      ru:
+        title: Статья_4
+        meta_title: Статья_4
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_статьи_4
+      uk:
+        title: Стаття_4
+        meta_title: Стаття_4
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_статті_4
+  5:
+    Translation:
+      ru:
+        title: Статья_5
+        meta_title: Статья_5
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_статьи_5
+      uk:
+        title: Стаття_5
+        meta_title: Стаття_5
+        description: 'Lorem ipsum dolor sit amet, curabitur nullam elit ac a amet. Viverra sit id vel, vestibulum sit diam, ante ut purus, nulla quam est congue, risus vulputate vehicula neque amet sed. Dui volutpat ullamcorper suscipit, suspendisse lacus luctus non duis posuere scelerisque. Tincidunt ornare ligula etiam pulvinar nulla'
+        text: Текст_статті_5
